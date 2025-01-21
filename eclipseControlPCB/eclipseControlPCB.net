@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "C:\\Users\\alexl\\OneDrive\\Documents\\GitHub\\eclipse-automegasumo\\eclipseControlPCB\\eclipseControlPCB.kicad_sch")
-    (date "2024-12-23T18:53:21-0500")
+    (date "2025-01-14T23:13:56-0500")
     (tool "Eeschema 8.0.4")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -515,9 +515,9 @@
       (tstamps "6d2cecb9-4c02-457b-be46-7613d1e4e57f"))
     (comp (ref "R1")
       (value "500")
-      (footprint "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+      (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
       (fields
-        (field (name "Footprint") "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+        (field (name "Footprint") "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
         (field (name "Datasheet"))
         (field (name "Description")))
       (libsource (lib "Device") (part "R_US") (description "Resistor, US symbol"))
@@ -529,9 +529,9 @@
       (tstamps "5ddba3f8-88f7-44f7-be37-d011474b3f9c"))
     (comp (ref "R2")
       (value "150")
-      (footprint "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+      (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
       (fields
-        (field (name "Footprint") "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+        (field (name "Footprint") "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
         (field (name "Datasheet"))
         (field (name "Description")))
       (libsource (lib "Device") (part "R_US") (description "Resistor, US symbol"))
